@@ -2,7 +2,7 @@
 
 [![Build Status](https://secure.travis-ci.org/defhacks/speclj-twmn.png)](http://travis-ci.org/defhacks/speclj-twmn)
 
-speclj-twmn is a plugin for [speclj](http://speclj.com/) that shows success and failure messages with [Twmn](http://github.com/sboli/twmn).
+speclj-twmn is a plugin for [speclj](http://speclj.com/) that shows success and failure messages with [twmn](http://github.com/sboli/twmn).
 
 ## Installation
 
